@@ -1,0 +1,2 @@
+#!/bin/bash
+"$SCITOOL_CROSS_COMPILE"as "$@"

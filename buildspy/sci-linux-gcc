@@ -1,0 +1,2 @@
+#!/bin/bash
+/opt/scitools/bin/linux64/buildspy/gccwrapper.bin "$@"
